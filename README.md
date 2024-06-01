@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MahiSharma19
-- 👀 I’m interested in Developing
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning.
 
 
 <!---
