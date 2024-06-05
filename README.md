@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MahiSharma19
-- 🌱 I’m currently learning.
+- 🌱 I’m currently learning Modern Javascript.
 
 
 <!---
